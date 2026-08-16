@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-16T23:57:01Z",
+  "source_commit": "b0e73c1f81e1cd268067682027b131e7465796d8",
+  "repo": {
+    "id": "vscode",
+    "full_name": "kaibuzz0/vscode",
+    "url": "https://github.com/kaibuzz0/vscode",
+    "default_branch": "main"
+  },
+  "stats": {
+    "tracked_files": 16553,
+    "python_files": 75,
+    "javascript_typescript_files": 12035,
+    "workflow_files": 21,
+    "test_files": 2428
+  },
+  "tools": [],
+  "toolsets": [],
+  "cases": [],
+  "opportunities": [],
+  "intelligence": [],
+  "sources": [],
+  "prompts": [],
+  "evidence": [],
+  "agent_ops": {},
+  "activity": [
+    {
+      "id": "b0e73c1f81e1cd268067682027b131e7465796d8",
+      "type": "commit",
+      "title": "Connect repository to GitHub Command Site",
+      "timestamp": "2026-08-16T18:56:48-05:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/b0e73c1f81e1cd268067682027b131e7465796d8"
+    },
+    {
+      "id": "e478e2d774ebac46b581438dd25f4f7a23a7f104",
+      "type": "commit",
+      "title": "Automations: remove lingering :has() selectors from dialog and list (#325864)",
+      "timestamp": "2026-07-17T12:07:32-07:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/e478e2d774ebac46b581438dd25f4f7a23a7f104"
+    },
+    {
+      "id": "82bbf716456501e9511bdd3cfa2a4a1800fb3d8f",
+      "type": "commit",
+      "title": "Add dictation mode and model-download telemetry (#326386)",
+      "timestamp": "2026-07-17T14:49:03-04:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/82bbf716456501e9511bdd3cfa2a4a1800fb3d8f"
+    },
+    {
+      "id": "a147b7608ccf7e6c393576ecc688e34aa7cb2695",
+      "type": "commit",
+      "title": "Exit Voice Mode Listening When Session Focus Changes (#326354)",
+      "timestamp": "2026-07-17T14:11:43-04:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/a147b7608ccf7e6c393576ecc688e34aa7cb2695"
+    },
+    {
+      "id": "1058ac0ced09b96d5745c379cdfd50f855f57036",
+      "type": "commit",
+      "title": "fix: guard against disposed render frames in webRequest filtering (fixes #326368) (#326370)",
+      "timestamp": "2026-07-17T18:07:37Z",
+      "url": "https://github.com/kaibuzz0/vscode/commit/1058ac0ced09b96d5745c379cdfd50f855f57036"
+    },
+    {
+      "id": "2ce12fe6d8c461ef2ed074290c8cd15b736a6438",
+      "type": "commit",
+      "title": "Voice: add connected idle barge-in hint and glow (#326379)",
+      "timestamp": "2026-07-17T14:04:13-04:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/2ce12fe6d8c461ef2ed074290c8cd15b736a6438"
+    },
+    {
+      "id": "401631c8e02dfbeeffe5de8bf3a93a01d8e08cf4",
+      "type": "commit",
+      "title": "Further Unify Model Picker Architecture (#326351)",
+      "timestamp": "2026-07-17T13:59:18-04:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/401631c8e02dfbeeffe5de8bf3a93a01d8e08cf4"
+    },
+    {
+      "id": "a935b0a9300953c31f8ba2254bbec53eb40718aa",
+      "type": "commit",
+      "title": "Voice: narrate confirmations/responses stranded on the user_speaking latch (#326378)",
+      "timestamp": "2026-07-17T13:43:27-04:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/a935b0a9300953c31f8ba2254bbec53eb40718aa"
+    },
+    {
+      "id": "6b4651aff715872f27c652381890630dd1684b32",
+      "type": "commit",
+      "title": "chore: onboard onto CFSClean2 and CFSClean3 (#326246)",
+      "timestamp": "2026-07-17T10:38:58-07:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/6b4651aff715872f27c652381890630dd1684b32"
+    },
+    {
+      "id": "1b8849587f08ffd64bc94a6b3b9c98bb0363a871",
+      "type": "commit",
+      "title": "setting experiment to auto (#326332)",
+      "timestamp": "2026-07-17T18:59:42+02:00",
+      "url": "https://github.com/kaibuzz0/vscode/commit/1b8849587f08ffd64bc94a6b3b9c98bb0363a871"
+    }
+  ],
+  "links": [
+    {
+      "id": "github",
+      "name": "GitHub repository",
+      "url": "https://github.com/kaibuzz0/vscode"
+    },
+    {
+      "id": "actions",
+      "name": "GitHub Actions",
+      "url": "https://github.com/kaibuzz0/vscode/actions"
+    },
+    {
+      "id": "issues",
+      "name": "Issues",
+      "url": "https://github.com/kaibuzz0/vscode/issues"
+    }
+  ]
+}
